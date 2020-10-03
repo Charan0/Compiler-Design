@@ -1,6 +1,0 @@
-%This is a comment
-%Epsilon is represented using #
-
-S->SaA|#
-A->Ai|bc
-B->d 
