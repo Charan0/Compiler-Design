@@ -76,4 +76,7 @@ int main(){
     printf("The resulting productions without left recursion : \n");
     printf("%s\n%s\n", str1, str2);
   }
+  else{
+    printf("%s\n", production);
+  }
 }
